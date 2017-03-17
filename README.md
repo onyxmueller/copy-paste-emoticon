@@ -14,6 +14,6 @@ pointing right (v1)
 (☞ﾟ▽ﾟ)☞
 pointing right (v2)
 
-☜(ﾟヮﾟ☜)
+☜(ヮﾟ☜)
 pointing left
 ```
