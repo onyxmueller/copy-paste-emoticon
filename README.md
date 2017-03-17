@@ -1,0 +1,2 @@
+# unicode-emoticon
+Essential Emoticons
