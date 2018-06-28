@@ -1,19 +1,34 @@
 ```
 (╯°□°）╯︵ ┻━┻
-Table Flip / Flipping Table
+table flip
 
-┬─┬﻿ ノ( ゜-゜ノ)
-Put the table back
+┬─┬ ノ( ゜-゜ノ
+table back
 
 ¯\_(ツ)_/¯
 shrug face  
 
 (☞ﾟヮﾟ)☞
-pointing right (v1)
-
-(☞ﾟ▽ﾟ)☞
-pointing right (v2)
+point right / that
 
 ☜(ヮﾟ☜)
-pointing left
+point left / this
+
+( •_•) ( •_•)>⌐■-■ (⌐■_■)
+sunglasses / deal with it
+
+(∩ ` -´)⊃━━☆ﾟ.*･｡ﾟ
+wizard
+
+(•̀ᴗ•́)و ̑̑
+success
+
+ᕕ( ᐛ )ᕗ
+happy
+
+(－‸ლ)
+facepalm
+
+ಠ_ಠ
+disapprove
 ```
